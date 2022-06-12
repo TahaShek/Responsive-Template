@@ -1,0 +1,53 @@
+.card-body{
+    /* height: 50vh; */
+    /* width: 80vh; */
+}
+
+
+nav{
+    background-color: white;
+}
+
+
+.navbar-brand{
+    color: black;
+    font-size: 25px;
+    font-weight: 600;
+}
+.navbar-brand:hover{
+    background-color: black;
+    color: white;
+}
+.nav-link{color: black;
+font-size: 15px;
+font-weight: 500;}
+
+.nav-link:hover{
+    background-color: black;
+    color: white;
+}
+.main{
+    background: url('../assests/i2.jpg') no-repeat 0 0;
+    background-position: center; 
+    background-size: cover;
+    height: 100vh;
+}
+.h21{
+    /* font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif */
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-size: 50px;
+}
+h5{
+    border-bottom: 3px solid ;
+    width: 25%;
+}
+.button:hover{color: black;
+    background-color: #ED4C67;
+
+}
+
+
+
+
